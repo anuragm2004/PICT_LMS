@@ -1,4 +1,8 @@
 PICT_LMS_backend/node_modules
 PICT_LMS_backend/.env
+PICT_LMS_backend/.DS_Store
 
 PICT_LMS_frontend/node_modules
+PICT_LMS_frontend/.DS_Store
+
+.DS_Store
