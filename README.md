@@ -1,6 +1,6 @@
 # 📚 PICT_LMS - Library Management System
 
-A modern, efficient, and user-friendly **Library Management System** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to simplify and automate library operations for both administrators and students.
+A modern, efficient, and user-friendly **Library Management System** built using the **PERN Stack** (PostegreSQL, Express.js, React.js, Node.js) to simplify and automate library operations for both administrators and students.
 
 ---
 
@@ -26,7 +26,7 @@ A modern, efficient, and user-friendly **Library Management System** built using
 
 | Technology     | Role                            |
 |----------------|----------------------------------|
-| **MongoDB**    | NoSQL Database                   |
+| **PostgreSQL** | Relational Database              |
 | **Express.js** | Backend Framework (Node.js)      |
 | **React.js**   | Frontend Library (UI)            |
 | **Node.js**    | JavaScript Runtime (Backend)     |
@@ -39,7 +39,7 @@ The system is built with a **modular architecture**:
 
 - **Frontend** (React): Responsive UI for both Admins and Students
 - **Backend** (Express + Node.js): API endpoints, business logic, fine calculation, transactions
-- **Database** (MongoDB): Stores books, users, issue records, fines, and payment histories
+- **Database** (PostgreSQL): Stores books, users, issue records, fines, and payment histories
 
 ---
 
@@ -61,4 +61,4 @@ The detailed project report is available in this repository. Please refer to the
 
 ## 📝 Conclusion
 
-**PICT_LMS** demonstrates the power and flexibility of the MERN stack in building full-stack applications. It enhances the overall library experience by providing a centralized, automated, and user-friendly platform for managing books, users, fines, and transactions.
+**PICT_LMS** demonstrates the power and flexibility of the PERN stack in building full-stack applications. It enhances the overall library experience by providing a centralized, automated, and user-friendly platform for managing books, users, fines, and transactions.
